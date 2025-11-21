@@ -1,0 +1,15 @@
+.text-box h3:first-of-type {
+    color: pink;
+}
+#greycol {
+    color: grey;
+}
+.text-box div > p {
+    color: red;
+}
+.text-box p:nth-of-type(4) {
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
